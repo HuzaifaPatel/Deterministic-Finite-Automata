@@ -1,5 +1,5 @@
 # Deterministic Finite Automata
-A deterministic finite automaton M is a 5-tuple, (Q, Σ, δ, q0, F), consisting of  
+A deterministic finite automaton M is a 5-tuple, (Q, Σ, δ, q0, F), consisting of the following:  
 
 a finite set of states Q  
 a finite set of input symbols called the alphabet Σ  
