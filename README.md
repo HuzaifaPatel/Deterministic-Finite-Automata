@@ -8,11 +8,10 @@ An initial or start state q₀ ∈ Q
 A set of accept states F ⊆ Q
 
 δ is defined by the following state transition table:  
-
-δ(S1, 0) = S2
-δ(S1, 1) = S1
-δ(S2, 0) = S1
-δ(S2, 1) = S2 
-
+  
+δ(S1, 0) = S2  
+δ(S1, 1) = S1  
+δ(S2, 0) = S1  
+δ(S2, 1) = S2  
 
 Status: In Progress  
