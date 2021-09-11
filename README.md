@@ -5,4 +5,6 @@ A finite set of states Q
 A finite set of input symbols called the alphabet Σ  
 A transition function δ : Q × Σ → Q  
 An initial or start state q0 ∈ Q
-A set of accept states F ⊆ Q
+A set of accept states F ⊆ Q  
+
+Status: In Progress  
