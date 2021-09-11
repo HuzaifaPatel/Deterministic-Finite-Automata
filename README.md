@@ -9,8 +9,8 @@ A set of accept states F ⊆ Q
 
 δ is defined by the following state transition table:  
 -----0---1  
-S1 |	S2 |	S1  
-S2 |	S1 |	S2  
+S1 |	S2 	S1  
+S2 |	S1 	S2  
 
 
 Status: In Progress  
