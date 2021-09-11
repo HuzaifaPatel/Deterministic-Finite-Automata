@@ -11,7 +11,7 @@ class Automata{
 	private:
 		std::set<State> states;
 		std::set<Alphabet> alphabet;
-		TransitionFunction
-		StartState startState;
-		AcceptState acceptState;
+		TransitionFunction tranFunc;
+		StartState sState;
+		AcceptState aState;
 }
