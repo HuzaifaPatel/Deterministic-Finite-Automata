@@ -5,7 +5,7 @@ class State{
 	public:
 
 	private:
-
+		String name;
 }
 
 #endif
